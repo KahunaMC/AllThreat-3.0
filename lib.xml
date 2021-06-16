@@ -1,0 +1,52 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.blizzard.com/wow/ui/
+..\FrameXML\UI.xsd">
+
+	<Script file="ThreatUtils.lua" />
+	<Script file="ThreatBlacklist.lua" />
+	<Script file="AllThreat-3.0.lua" />
+	<Script file="ThreatTPS.lua" />
+
+	<Script file="ThreatClassModuleCore.lua" />
+	<Script file="ClassModules\Rogue.lua" />
+	<Script file="ClassModules\Warrior.lua" />
+	<Script file="ClassModules\Warlock.lua" />
+	<Script file="ClassModules\Priest.lua" />
+	<Script file="ClassModules\Paladin.lua" />
+	<Script file="ClassModules\Druid.lua" />
+	<Script file="ClassModules\Hunter.lua" />
+	<Script file="ClassModules\Shaman.lua" />
+	<Script file="ClassModules\Mage.lua" />
+	<Script file="ClassModules\Pet.lua" />
+
+	<Script file="PartyModules\Rogue.lua" />
+	<Script file="PartyModules\Warrior.lua" />
+	<Script file="PartyModules\Warlock.lua" />
+	<Script file="PartyModules\Priest.lua" />
+	<Script file="PartyModules\Paladin.lua" />
+	<Script file="PartyModules\Druid.lua" />
+	<Script file="PartyModules\Hunter.lua" />
+	<Script file="PartyModules\Shaman.lua" />
+	<Script file="PartyModules\Mage.lua" />
+	<Script file="PartyModules\Pet.lua" />
+
+	<Script file="ThreatNPCModuleCore.lua" />
+
+	<Script file="NPCModules\Auchindoun\ShadowLabyrinth\Blackheart.lua" />
+	<Script file="NPCModules\Azeroth\Azuregos.lua" />
+	<Script file="NPCModules\BlackTemple\Illidan.lua" />
+	<Script file="NPCModules\BlackTemple\Supremus.lua" />
+	<Script file="NPCModules\BlackTemple\Council.lua" />
+	<Script file="NPCModules\BlackwingLair\Nefarian.lua" />
+	<Script file="NPCModules\CoilfangReservoir\SerpentshrineCavern\Hydross.lua" />
+	<Script file="NPCModules\CoilfangReservoir\SerpentshrineCavern\Leotheras.lua" />
+	<Script file="NPCModules\CoilfangReservoir\SerpentshrineCavern\Vashj.lua" />
+	<Script file="NPCModules\Karazhan\Nightbane.lua" />
+	<Script file="NPCModules\MoltenCore\Shazzrah.lua" />
+	<Script file="NPCModules\Naxxramas\Kelthuzad.lua" />
+	<Script file="NPCModules\Naxxramas\Noth.lua" />
+	<Script file="NPCModules\Outland\Doomwalker.lua" />
+	<Script file="NPCModules\TempestKeep\TheEye\Solarian.lua" />
+	<Script file="NPCModules\ZulAman\Zuljin.lua" />
+
+	<Script file="ThreatBoot.lua" />
+</Ui>
